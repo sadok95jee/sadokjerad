@@ -2,6 +2,7 @@
 title : Sadok Jerad site
 permalink : /
 layout : default
+<meta name="google-site-verification" content="V94qkpdjuN4lHkbbi_B094ivOWW0H3VTGIaqZeNjtwk" />
 ---
 
 
