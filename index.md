@@ -30,10 +30,10 @@ Before starting my PhD, I graduated from [&Eacute;cole Polytechnique](https://ww
 Published Papers
 ======
 
-* Convergence properties of an Objective-Function-Free Optimization regularization algorithm, including an &Oscr; ($\epsilon^{-3/2}$)  complexity bound <kbd>[Journal](https://epubs.siam.org/doi/10.1137/22M1499522)</kbd> <kbd>[arxiv](https://arxiv.org/abs/2203.09947)</kbd>
+* Convergence properties of an Objective-Function-Free Optimization regularization algorithm, including an &Oscr; ($\epsilon^{-3/2}$)  complexity bound <kbd> [Journal](https://epubs.siam.org/doi/10.1137/22M1499522) </kbd> <kbd> [arxiv](https://arxiv.org/abs/2203.09947) </kbd>
 
 
-* H&ouml;lder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points <kbd>[Journal](https://www.tandfonline.com/doi/full/10.1080/10556788.2023.2210253)</kbd> <kbd>[arxiv](https://arxiv.org/pdf/2104.02564.pdf)</kbd>. 
+* H&ouml;lder Gradient Descent and Adaptive Regularization Methods in Banach Spaces for First-Order Points <kbd> [Journal](https://www.tandfonline.com/doi/full/10.1080/10556788.2023.2210253) </kbd> <kbd> [arxiv](https://arxiv.org/pdf/2104.02564.pdf) </kbd>. 
 
 
 Papers
@@ -41,19 +41,20 @@ Papers
 
 
 
-* Parametric complexity analysis for a class of first-order Adagrad-like algorithms <kbd>[arxiv](https://arxiv.org/pdf/2203.01647.pdf)</kbd>. 
+* Parametric complexity analysis for a class of first-order Adagrad-like algorithms <kbd> [arxiv](https://arxiv.org/pdf/2203.01647.pdf) 
+ </kbd>. 
 
 
 * First-Order Objective-Function-Free Optimization Algorithms
-and Their Complexity <kbd>[arxiv](https://arxiv.org/pdf/2203.01757.pdf) </kbd>. 
+and Their Complexity <kbd> [arxiv](https://arxiv.org/pdf/2203.01757.pdf) </kbd>. 
 
 
 Talks
 ======
 
-* Adaptive regularization without function values <kbd>[Slides](assets/siamop.pdf)</kbd>. 
+* Adaptive regularization without function values <kbd> [Slides](assets/siamop.pdf) </kbd>. 
 
-* Yet Another fast variant of Newton’s method  <kbd>[Slides](assets/EUROPT.pdf)</kbd>.
+* Yet Another fast variant of Newton’s method  <kbd> [Slides](assets/EUROPT.pdf) </kbd>.
 
 ##### Contact and social media
 _______
