@@ -41,20 +41,19 @@ Papers
 
 
 
-* Parametric complexity analysis for a class of first-order Adagrad-like algorithms <kbd> [arxiv](https://arxiv.org/pdf/2203.01647.pdf) 
- </kbd>. 
+* Parametric complexity analysis for a class of first-order Adagrad-like algorithms [`arxiv`](https://arxiv.org/pdf/2203.01647.pdf). 
 
 
 * First-Order Objective-Function-Free Optimization Algorithms
-and Their Complexity <kbd> [arxiv](https://arxiv.org/pdf/2203.01757.pdf) </kbd>. 
+and Their Complexity [`arxiv`](https://arxiv.org/pdf/2203.01757.pdf). 
 
 
 Talks
 ======
 
-* Adaptive regularization without function values <kbd> [Slides](assets/siamop.pdf) </kbd>. 
+* Adaptive regularization without function values [`Slides`](assets/siamop.pdf). 
 
-* Yet Another fast variant of Newton’s method  <kbd> [Slides](assets/EUROPT.pdf) </kbd>.
+* Yet Another fast variant of Newton’s method  [`Slides`](assets/EUROPT.pdf).
 
 ##### Contact and social media
 _______
